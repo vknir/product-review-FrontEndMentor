@@ -119,6 +119,10 @@ main >img{
     font-weight: 500;
 }
 
+.container button :hover{
+  background-color: hsl(212, 21%, 14%);
+}
+
 @media  (min-width: 1024px) {
 
   /* styling main based on size */

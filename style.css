@@ -119,7 +119,7 @@ main >img{
     font-weight: 500;
 }
 
-.container button :hover{
+.container button:hover{
   background-color: hsl(212, 21%, 14%);
 }
 
